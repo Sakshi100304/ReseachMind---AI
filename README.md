@@ -2,14 +2,14 @@
 ResearchMind AI simplifies academic research by providing secure paper management, AI-assisted insights, and an intuitive MERN-based web application.
 Research Paper: ResearchMind AI: An AI-Powered Research Paper Management System Using the MERN Stack
 
-Abstract
+Abstract:
 The rapid advancement of digital technologies has transformed the way researchers access, manage, and analyze scholarly publications. With the continuous growth of online journals, conference proceedings, and technical reports, researchers often face difficulties in organizing research papers efficiently. Manual management of academic documents frequently results in duplicate files, misplaced documents, time-consuming searches, and inefficient literature review processes. To address these challenges, this research proposes ResearchMind AI, an Artificial Intelligence-powered Research Paper Management System developed using the MERN (MongoDB, Express.js, React.js, and Node.js) technology stack.
 
 The proposed system provides a centralized platform that enables users to upload, organize, search, bookmark, and download research papers through an intuitive and secure web interface. Secure authentication is implemented using JSON Web Tokens (JWT), ensuring that only authorized users can access their personal collections. The dashboard offers a comprehensive overview of uploaded papers, bookmarked documents, and user activities. The system architecture is designed to support future Artificial Intelligence capabilities such as automatic document summarization, keyword extraction, citation generation, semantic search, and intelligent research recommendations.
 
 Unlike traditional file management applications, ResearchMind AI combines modern web technologies with an AI-ready architecture to improve productivity and simplify research workflows. The modular design enhances scalability, maintainability, and performance, making it suitable for educational institutions, researchers, and academic organizations. Experimental implementation demonstrates that the proposed system provides an efficient, secure, and user-friendly solution for managing digital research documents while establishing a strong foundation for future intelligent academic assistance.
 
-Keywords
+Keywords:
 Artificial Intelligence, Research Paper Management, MERN Stack, MongoDB, Express.js, React.js, Node.js, JWT Authentication, Academic Research, Document Management System.
 
  Introduction:
